@@ -28,6 +28,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 5. dump db_data.json file into mongodb
+create index of order_id and product.id
 
 
 Usage
