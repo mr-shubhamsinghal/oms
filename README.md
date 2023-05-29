@@ -27,7 +27,11 @@ source venv/bin/activate
 4. Install the dependencies:
 pip install -r requirements.txt
 
-5. dump db_data.json file into mongodb
+5. Download mongodb compass and server
+server download link -> https://www.mongodb.com/try/download/community
+compass download link -> https://www.mongodb.com/try/download/compass
+
+dump db_data.json file into mongodb
 create index of order_id and product.id
 
 
