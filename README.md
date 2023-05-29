@@ -27,6 +27,8 @@ source venv/bin/activate
 4. Install the dependencies:
 pip install -r requirements.txt
 
+5. dump db_data.json file into mongodb
+
 
 Usage
 
